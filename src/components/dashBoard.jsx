@@ -1,12 +1,12 @@
 import React from "react";
-import Barchart from "./Barchart";
+import Linechart from "./Linechart";
 import OptionButton from "./OptionButton";
 const DashBoard = () => {
   return (
     <div>
       <OptionButton />
       <OptionButton />
-      <Barchart />
+      <Linechart />
       Here is dashboard
     </div>
   );
