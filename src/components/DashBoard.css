@@ -1,0 +1,13 @@
+.grid-box {
+  display: grid;
+  grid-template-columns: 100px 100px;
+  width: 60%;
+  margin: 30px auto;
+  margin-top: 40px;
+}
+.first-currency-dropdown {
+  margin-left: 150px;
+}
+.second-currency-dropdown {
+  margin-left: 350px;
+}
