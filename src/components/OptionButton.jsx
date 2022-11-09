@@ -14,6 +14,7 @@ const OptionButton = (props) => {
       className="icon"
       floating
       labeled
+      disabled={props.disabled}
       icon="currency"
       options={currencyOptions}
       search
